@@ -1,0 +1,6 @@
+artifacts/
+site/BRB-Setup.exe
+host/bin/
+host/obj/
+web/node_modules/
+web/dist/
